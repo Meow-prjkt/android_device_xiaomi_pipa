@@ -498,4 +498,8 @@
          Must be in the range specified by minimum and maximum.  -->
     <item name="config_screenBrightnessSettingDefaultFloat" format="float" type="dimen">0.074743524</item>
 
+    <!-- If true, the screen can be rotated via the accelerometer in all 4
+         rotations as the default behavior. -->
+    <bool name="config_allowAllRotations">true</bool>
+
 </resources>
