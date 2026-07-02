@@ -56,6 +56,12 @@ vendor/lib/libaudiocloudctrl.so
 vendor/lib/libaudioroute_ext.so
 vendor/lib/libresampler.so
 vendor/lib/vendor.qti.hardware.audiohalext@1.0.so
+vendor/lib/libacdb-fts.so
+vendor/lib/libacdbloader.so
+vendor/lib/libacdbrtac.so
+vendor/lib/libadiertac.so
+vendor/lib/libaudcal.so
+vendor/lib/libssrec.so
 vendor/lib/vndk/libxlog.so
 
 # Audio firmware
